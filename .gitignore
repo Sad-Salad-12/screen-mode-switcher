@@ -1,0 +1,17 @@
+# Generated local build products and archives
+/build/
+/dist/
+*.app/
+*.zip
+*.dSYM/
+*.log
+*.exit
+
+# Local files and credentials
+.DS_Store
+.env
+.env.*
+*.p12
+*.p8
+*.key
+*.mobileprovision
